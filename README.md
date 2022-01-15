@@ -1,3 +1,3 @@
 # First_website
-HTML va CSS yordamida qilingan websayt
+HTML va CSS yordamida qilingan websayt.
 Responsive qilinmagan.
